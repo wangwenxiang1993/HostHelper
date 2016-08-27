@@ -1,0 +1,17 @@
+setup.py
+src/HostHelper.egg-info/PKG-INFO
+src/HostHelper.egg-info/SOURCES.txt
+src/HostHelper.egg-info/dependency_links.txt
+src/HostHelper.egg-info/entry_points.txt
+src/HostHelper.egg-info/top_level.txt
+src/main/__init__.py
+src/main/add.py
+src/main/source.py
+src/main/config/__init__.py
+src/main/config/config.py
+src/main/config/configTools.py
+src/main/config/hostfile.py
+src/main/edit/__init__.py
+src/main/edit/editTool.py
+src/main/host/__init__.py
+src/main/host/hostTool.py
